@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.root__chat {
+    width: 30%;
+    height: 100vh;
+    margin: auto;
+}
